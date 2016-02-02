@@ -1,0 +1,11 @@
+{
+  "name": "iot_knob_controller",
+  "version": "1.0.0",
+  "description": "Controll a twisting know over the internets!",
+  "main": "iot_knob_controller.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Colleen Carroll",
+  "license": "ISC"
+}
